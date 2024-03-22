@@ -59,3 +59,26 @@
   border-color: #3350e9;
   outline: none;
 }
+.contact-us-button {
+  border-radius: 16px;
+  background-color: #3350e9;
+  padding: 12px 50px;
+  width: 134px;
+  height: 42px;
+  display: block;
+  border: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.28571;
+  text-align: center;
+  color: #fbfbfb;
+  cursor: pointer;
+  margin-top: 28px;
+}
+.contact-us-button:hover,
+.contact-us-button:focus {
+  background-color: #1f3cd4;
+}
+.contact-us-img-container {
+  padding-top: 20px;
+}
